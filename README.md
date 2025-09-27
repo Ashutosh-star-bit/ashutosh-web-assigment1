@@ -60,7 +60,7 @@ The "Top 5 Global Destinations" section links directly to video guides for inspi
 
 ## 🤝 Contributing
 
-Contributions, feature requests, and suggestions are welcome! Feel free to fork the repository and submit a pull request for improvements, especially adding CSS for a polished look.
+Contributions, feature requests, and suggestions are welcome! Feel free to fork the repository and submit a pull request for improvements, especially adding for a polished look.
 
 1.  Fork the Project.
 2.  Create your Feature Branch (`git checkout -b feature/AddStyling`).
